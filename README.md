@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fractiunate.me
+- 👋 Hi, I’m [[fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/)](@fractiunate.me)
 - 👀 I’m interested in learning and teaching new [web] technologies and I currently provide enterprise grand cloud solutions!
 - 🌱 In the meantime I am learning svelte and advanced web-design to deliver full-architecture-projects
 - 💞️ I’m looking to meet new open-minded tech people and sweet tech projects on any scale
