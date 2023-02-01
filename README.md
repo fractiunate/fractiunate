@@ -1,7 +1,9 @@
-- 👋 Hi, I’m [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/)
-- 👀 I’m interested in learning and teaching new [web] technologies and I currently provide enterprise grand cloud solutions!
-- 🌱 In the meantime I am learning fastify, svelte and advanced web-design to deliver full-architecture-projects
-- 💞️ I’m looking to meet new open-minded tech people and sweet tech projects on any scale
+## Fractiunate
+Hi I'm [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/), a cloud-native DevOps Engineer specialized in designing, building, and maintaining complex declerative cloud architecture and fullstack apps.
+
+- 🎨 In the meantime I am learning fastify, vue, svelte and advanced web-design to deliver full-architecture-projects
+- 🍣 Check out my tech-blog at [devops-sushi.de](www.devops-sushi.de)
+- 💬 I’m looking to meet new open-minded tech people and sweet tech projects on any scale
 - 📫 How to reach me: [linked.in/fractiunate](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/)
 
 <!---
