@@ -3,7 +3,7 @@ Hi I'm [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-
 
 - 🃏 Jack of all trades
 - F [fractiunate.me](https://fractiunate.me)
-- 🍵 T-Shaped DevOps Cloud-Enginerr & Webdev
+- 🍵 T-Shaped DevOps Cloud-Engineer & Webdev
 - 💬 I’m looking to meet new open-minded tech people and sweet tech projects on any scale
 - 🎨 In the meantime I am learning fastify, vue, svelte and advanced web-design to deliver full-architecture-projects
 - 🍣 Check out my tech-blog at [www.devops-sushi.de](https://www.devops-sushi.de)
