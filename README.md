@@ -1,5 +1,5 @@
 # Fractiunate
-Hi I'm [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/), a cloud-native DevOps Engineer specialized in designing, building, and maintaining complex declerative cloud architecture and fullstack apps.
+Hi I'm [@fractiunate.me](https://www.linkedin.com/search/results/all/?keywords=fractiunate&origin=GLOBAL_SEARCH_HEADER&sid=k%40*), a cloud-native DevOps Engineer specialized in designing, building, and maintaining complex declerative cloud architecture and fullstack apps.
 
 - F [fractiunate.me](https://fractiunate.me)
 - 🍵 T-Shaped DevOps Cloud-Engineer & Webdev & 🃏 Jack of all trades, Master of many
