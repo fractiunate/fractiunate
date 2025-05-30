@@ -6,7 +6,7 @@ Hi I'm [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-
 - 💬 I’m looking to meet new open-minded tech people and sweet tech projects on any scale
 - 🎨 In the meantime I am learning fastify, vue, svelte and advanced web-design to deliver full-architecture-projects
 - 🍣 Check out my tech-blog at [www.devops-sushi.de](https://www.devops-sushi.de)
-- 📫 How to reach me: [linked.in/fractiunate](https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/)
+- 📫 How to reach me: [linked.in/fractiunate]([https://www.linkedin.com/in/fractiunate-me-freelancing-34367a100/](https://www.linkedin.com/public-profile/settings))
 
 
 ## I am open to work
