@@ -11,7 +11,7 @@ Hi I'm [@fractiunate.me](https://www.linkedin.com/in/fractiunate-me-freelancing-
 
 ## I am open to work
 
-I offer my set of expertise on FIVERR: [www.fiverr.com/fractiunate/design-azure-cloud-architecture](https://www.fiverr.com/fractiunate/design-azure-cloud-architecture-and-provide-terraform-for-your-services)
+I offer my set of expertise on FIVERR: [www.fiverr.com/fractiunate/design-azure-cloud-architecture-and-provide-terraform-for-your-services](https://www.fiverr.com/fractiunate/design-azure-cloud-architecture-and-provide-terraform-for-your-services)
 <!---
 fractiunate/fractiunate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
